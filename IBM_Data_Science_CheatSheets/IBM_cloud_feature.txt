@@ -1,0 +1,9 @@
+IBM Cloud Feature Code = 4027099c91afa4105b6e27df60d5f17e
+
+Account ID = c030e297c36d4fc184be02c128e74cfa
+
+.Date <= '2021-06-14'
+
+.Date <= '2021-04-30'
+
+infer_datetime_format=True
